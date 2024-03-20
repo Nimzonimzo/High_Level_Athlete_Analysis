@@ -1,6 +1,6 @@
 # High-Level Athletes Analysis in France
 
-This personal project aims to analyze data on athletes registered on the High-Level Athletes (SHN) list in 2016, provided by the Ministry of Sports. The goal is to understand the composition of this list, the characteristics of the athletes it comprises, and their distribution by sports discipline, region, etc.
+This personal project aims to analyze data on athletes registered on the High-Level Athletes (SHN) list in 2016 (data available on the French Gouvernment website), provided by the Ministry of Sports. The goal is to understand the composition of this list, the characteristics of the athletes it comprises, and their distribution by sports discipline, region, etc...
 
 ## Overview
 Analyzing high-level athletes in France involves data exploration, visualization of distributions and relationships between variables, and identifying demographic and sports trends within the SHN list.
